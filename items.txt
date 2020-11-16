@@ -1,0 +1,11 @@
+Battery;50
+Chocolate Maggi;100
+Tesla car;1000000
+Laptop;45000
+PPE Kit;300
+Mask;100
+Sanitizer;70
+Monopoly;700
+Xbox Series X;40000
+PlayStation 5;30000
+Smart TV;15000
